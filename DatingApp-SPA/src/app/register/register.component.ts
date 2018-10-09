@@ -1,6 +1,6 @@
 import { Component, OnInit, Input, EventEmitter, Output } from '@angular/core';
 import { AuthService } from '../_services/auth.service';
-import { Alert } from 'selenium-webdriver';
+// import { Alert } from 'selenium-webdriver';
 import { AlertifyService } from '../_services/alertify.service';
 
 @Component({
