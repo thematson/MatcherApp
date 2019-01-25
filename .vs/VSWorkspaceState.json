@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DatingApp-SPA",
+    "\\DatingApp.API",
+    "\\DatingApp.API\\Controllers"
+  ],
+  "SelectedNode": "\\DatingApp.API\\Controllers\\UsersController.cs",
+  "PreviewInSolutionExplorer": false
+}
